@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "bad56bb2adf38b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7475b52f0a1b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9831a4ea196c5d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/raw/Hyperbolic Category Discovery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperbolic Category Discovery"
+            }
+          },
+          {
+            "id": "5f88f30d3dc55ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/note/Hyperbolic Category Discovery (2504.06120v1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperbolic Category Discovery (2504.06120v1)"
+            }
+          },
+          {
+            "id": "a4c2591c8b3a8280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/note/Hyperbolic Category Discovery (2504.06120v1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperbolic Category Discovery (2504.06120v1)"
+            }
+          },
+          {
+            "id": "95eaa0b130c03abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/note/Hyperbolic Category Discovery (2504.06120v1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperbolic Category Discovery (2504.06120v1)"
+            }
+          },
+          {
+            "id": "8638123fe861a3eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9609c4878f1f5224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/note/A Unified Objective for Novel Class Discovery (2108.08536v4).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Unified Objective for Novel Class Discovery (2108.08536v4)"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7668111727d6577f",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cbc8737b5fe3a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "131045c482d349d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f1f0f1baf2dae7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6dbafe4c7b05b2b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "f17b2c3235e8aea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e901de3241757d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77103c0d67c1310d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/ho-so-giang-vien-dai-hoc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ho-so-giang-vien-dai-hoc"
+            }
+          },
+          {
+            "id": "25d0d7608768a6cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/ho-so-giang-vien-dai-hoc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ho-so-giang-vien-dai-hoc"
+            }
+          },
+          {
+            "id": "0b1d2ac4fff1f233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37cecc467ab23ed3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0e48a61710eb8d36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/ho-so-giang-vien-dai-hoc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ho-so-giang-vien-dai-hoc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "8638123fe861a3eb",
+  "lastOpenFiles": [
+    "wiki/concepts/self-distillation-pseudo-labeling.md",
+    "wiki/concepts/prediction-bias-in-gcd.md",
+    "wiki/concepts/parametric-classification-for-gcd.md",
+    "wiki/entities/entropy-regularization-gcd.md",
+    "wiki/entities/gcd-cvpr-2022.md",
+    "wiki/entities/simgcd.md",
+    "wiki/sources/2026-05-04-parametric-classification-gcd-baseline-study.md",
+    "paper/note/Hyperbolic Category Discovery (2504.06120v1).md",
+    "wiki/concepts/hybrid-hyperbolic-contrastive-loss.md",
+    "wiki/concepts/hierarchy-aware-representation-learning.md",
+    "wiki/concepts/hyperbolic-geometry-for-gcd.md",
+    "wiki/entities/selex.md",
+    "wiki/entities/poincare-ball-model.md",
+    "wiki/entities/hypcd.md",
+    "wiki/sources/2026-05-04-hyperbolic-category-discovery.md",
+    "paper/raw/Hyperbolic Category Discovery.md",
+    "paper/pdf/Hyperbolic Category Discovery (2504.06120v1).pdf",
+    "note.md",
+    "paper/note/A Unified Objective for Novel Class Discovery (2108.08536v4).md",
+    "paper/note/When and How Does Known Class Help Discover Unknown Ones Provable Understanding Through Spectral Analysis (2308.05017v1).md",
+    "paper/pdf/When and How Does Known Class Help Discover Unknown Ones Provable Understanding Through Spectral Analysis (2308.05017v1).pdf",
+    "paper/note/AutoNovel Automatically Discovering and Learning Novel Visual Categories (2106.15252v1).md",
+    "paper/note/Generalized Category Discovery (2201.02609v2).md",
+    "paper/note/Parametric Classification for Generalized Category Discovery A Baseline Study (2211.11727v4).md",
+    "paper/note/Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery (2507.04725v3).md",
+    "paper/pdf/A Unified Objective for Novel Class Discovery (2108.08536v4).pdf",
+    "paper/raw/Parametric Classification for Generalized Category Discovery A Baseline Study.md",
+    "paper/pdf/Parametric Classification for Generalized Category Discovery A Baseline Study (2211.11727v4).pdf",
+    "paper/raw/AutoNovel Automatically Discovering and Learning Novel Visual Categories.md",
+    "paper/pdf/Generalized Category Discovery (2201.02609v2).pdf",
+    "paper/raw/Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery.md",
+    "paper/pdf/AutoNovel Automatically Discovering and Learning Novel Visual Categories (2106.15252v1).pdf",
+    "paper/pdf/Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery (2507.04725v3).pdf",
+    "paper/note",
+    "paper/pdf",
+    "paper/raw"
+  ]
+}
